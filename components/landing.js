@@ -18,8 +18,8 @@ const Landing = () => {
                   </div>
     <p className=" text-gray-500 py-3 mr-5 sm:mr-0 text-sm break-normal" >We can help you to get your buisness to  sky high.We are here to guide your how to build your brand.Contact Us for More info </p>
                   <div className=" button my-4">
-                      <button className=" bg-purple-800 mx-2 px-3 py-3 rounded-2xl text-white hover:bg-slate-900">Buy Now</button>
-                      <button className=" bg-purple-800 mx-2 px-3 py-3 rounded-2xl text-white hover:bg-slate-900">Contact Us</button>
+                      <button className=" bg-purple-800 mx-2 px-3 py-3 rounded-2xl text-white hover:bg-slate-900 active:bg-amber-400 hover:shadow-xl hover:shadow-red-500/40">Buy Now</button>
+                      <button className=" bg-purple-800 mx-2 px-3 py-3 rounded-2xl text-white hover:bg-slate-900 active:bg-amber-400 hover:shadow-xl hover:shadow-red-500/40">Contact Us</button>
                   </div>
               </div>
               <div className="flex items-center">
